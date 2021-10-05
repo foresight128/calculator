@@ -1,24 +1,14 @@
 # calculator
 
-## Project setup
-```
-npm install
-```
+url - https://foresight128.github.io/calculator/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Date - 2021/08/15
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Tool & Skill
+- html5
+- SCSS
+- Vue
+- VisualStudioCode
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![계산기](https://user-images.githubusercontent.com/89468282/135853501-0916074a-94a7-455f-a2ae-26e360cf890b.png)
